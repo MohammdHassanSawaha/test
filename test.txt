@@ -1,1 +1,3 @@
 this is first task for rushed push git version control 
+
+now change file in master branch
